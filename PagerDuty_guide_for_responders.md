@@ -4,6 +4,8 @@
 - **Last update:** 2020-10-13
 ## Your actions as first responder
 
+[First responder flowchart](https://efficy-my.sharepoint.com/personal/arza_efficy_com/Documents/Microsoft%20Teams%20Chat%20Files/FirstResponder_Flowchart.png?web=1)
+
 1. Make sure that a registered 'incident' exists in Pagerduty, or create a new one.
 2. Acknowledge the alert and get online with your laptop. You are now interim 'Incident Commander'
     - If you for some reason are unable to investigate the alert - don't acknowledge, let it escalate instead.

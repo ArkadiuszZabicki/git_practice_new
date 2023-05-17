@@ -10,7 +10,7 @@ Tickets (questions, projects, consultation, etc) that have been sent in to, and 
  
 Sometimes stakeholders to a particular ticket have the need to escalate it. Since all escalations will result in other work being pushed back we need these escalations to happen in a controlled fashion.
 
-## How to Escalate tickets handled by Deliverability / SOC
+## How to escalate tickets handled by Deliverability / SOC
 
 Delivery and SOC team work with cases that take longer time to complete and therefore need to be scheduled accordingly. We can sometimes prio a case up if the commercial value for doing so is high, but this prio will always be done within the team.
 
@@ -19,7 +19,7 @@ The reason for this is that the team alone has full insight into the various pro
 All customers (and generally their Account Managers) want their particular cases to be prioritized the highest and done as soon as possible. If we have 100 cases and prio up 99 of these then we effectively do not have any prioritization at all.
 
  
-### Therefore: The only way to increase prio on an open case is to send in a very good motivation for why this particular case needs to be done before all other cases:
+### Therefore, the only way to increase prio on an open case is to send in a very good motivation for why this particular case needs to be done before all other cases:
 
 - What would happen if this case is not completed before date X?
 
